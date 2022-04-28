@@ -1,6 +1,6 @@
 .row-header{
     margin: 0px auto;
-    padding: 0px auto;
+    padding: 0px;
 }
 .row-content{
     margin: 0px auto;
@@ -9,7 +9,7 @@
     min-height: 400 px;
 }
 .footer{
-    background-color: rgb(9, 247, 247);
+    background-color: #D1C4E9;
     margin: 0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -17,12 +17,12 @@
 .jumbo{
     padding: 70px 30px 70px 30px;
     margin: 0px auto;
-    background-color: rgb(78, 66, 88);
-    color:ghostwhite;
+    background-color: #9575CD ;
+    color:floralwhite;
 }
 
-.adress{
-    font:bolder;
-    color:blue;
+address{
+    font-size: 80%;
+    color:black;
     margin:0px;
 }
